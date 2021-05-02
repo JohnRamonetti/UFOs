@@ -37,7 +37,7 @@
 ### Suggestions for further development:
 - Rather than having to enter a blank search, followed by "Enter" in order to clear a search parameter, we'd suggest adding a "clear" button next to each search box.
 
-- We'd also suggest adding a drop-down menu for each search box, populated with the unique choices available for that search criterion in the current data set, so that one doesn't have to keep running searches and getting empty results.
+- We'd also suggest adding a drop-down menu for each search box, populated with the unique choices available for that search field in the current data set, so that one doesn't have to keep running searches and getting empty results.
 
 - In addition, we should explore the possibility of including a "keyword" search option for the "Comments" field, because that might help one to find results that are otherwise difficult to isolate.
 
