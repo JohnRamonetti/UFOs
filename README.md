@@ -24,7 +24,6 @@
 
 
 ## SUMMARY
-
 #### While the webpage is aesthetically pleasing and works well, we do see some drawbacks and have a few suggestions for improvement.
 
 ### Drawbacks:
