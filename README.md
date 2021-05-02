@@ -14,13 +14,13 @@
 #### We have created filters to search by any/each of the 5 UFO-sighting descriptor fields mentioned above (Date, City, State, Country, Shape).  The webpage automatically loads with the full set of sightings data displayed after the introductory article [as shown here](Resources/1_full.png).  
 
 ### Searching the sightings data:
-#### There are [5 filter boxes](Resources/2_search_boxes.png), each with a phantom entry to show the search format for that field.  To carry out a search, simply enter your search criterion [(e.g., "1/12/2010")](Resources/3_searchbydate.png) into the search box and hit "Enter".  You can refine your search further by entering an additional criterion in another search box [(e.g., "ca" for state)](4_searchbydate.png), which will then give you results filtered for both criteria.  To revise one of your search criteria, you can simply enter a [new value](Resources/5_revisesearch.png) into the appropriate search box and hit "Enter".
+#### There are [5 filter boxes](Resources/2_search_boxes.png), each with a phantom entry to show the search format for that field.  To carry out a search, simply enter your search criterion [(e.g., "1/12/2010")](Resources/3_searchbydate.png) into the search box and hit "Enter".  You can refine your search further by entering an additional criterion in another search box [(e.g., "ca" for state)](4_searchbystate.png), which will then give you results filtered for both criteria.  To revise one of your search criteria, you can simply enter a [new value](Resources/5_revisesearch.png) into the appropriate search box and hit "Enter".
 
 ### Clearing a search parameter:
-#### To clear one of your UFO-sighting search parameters, click in the appropriate search box, delete it's contents and press "Enter" while the search box is empty (the phantom search example will be visible).  The data will refresh without that search parameter.
+#### To clear one of your UFO-sighting search parameters, click in the appropriate search box, delete it's contents and press "Enter" while the search box is empty (the phantom search example will be visible).  The UFO-sightings data will refresh without that search parameter.
 
 ### Resetting the data:
-#### To reset the data and clear all search parameters, simply click on ["UFO Sightings"](Resources/6_reset_data.png) in the upper left corner of the webpage, above the "The Truth is Out There" banner.  (Alternatively, you can clear each search parameter one at a time until all search parameters have been reset and only the phantom search exammples are shown in the search boxes).
+#### To reset the data and clear all search parameters, simply click on ["UFO Sightings"](Resources/6_reset_data.png) in the upper left corner of the webpage, above the "The Truth is Out There" banner.  (Alternatively, you can clear each search parameter one at a time until all search parameters have been reset and only the phantom search examples are shown in the search boxes).
 
 
 ## SUMMARY
