@@ -30,7 +30,7 @@
 ### Drawbacks:
   - Searchers can only search for one date/city/shape/etc at a time.  So, for example, if you want to search for spherically-shaped UFO's, you'd have to do separate searches for ["sphere"](Resources/8_sphere.png), for ["circle"](Resources/7_circle.png) and for ["oval"](Resources/9_oval.png), but you can't currently get them all together. Likewise, you can't specify multiple, cities or states or countries or dates in one search.
   
-  - Search boxes need better text contrast (phantom vs search).  While you can see a subtle difference between the phantom search box entries and the actual criteria that have been searched, it's not as clear as it should be.  See [this example](Resources/10_no_contrast.png) of a search for sightings on 1/10/2010 in CA, versus [this example](Resources/10b_no_contrast.png)  which shows the data reset, including phantom search (format) examples of both "1/10/2010" and "ca" in the search boxes.  At a quick glance, you might mistake which search criteria have been executed.
+  - Search boxes need better text contrast (phantom vs search).  While you can see a subtle difference between the phantom search box entries and the actual criteria that have been searched, it's not as clear as it should be.  See [this example](Resources/10_no_contrast.png) of a search for sightings on 1/10/2010 in CA, versus [this example](Resources/10b_no_contrast.png)  which shows the data reset, including phantom entries of both "1/10/2010" and "ca" in the search boxes.  At a quick glance, you might mistake which search criteria have been executed.
   
   - One final drawback of the current webpage is the limited and static dataset.
 
