@@ -3,7 +3,7 @@
 
 
 ## OVERVIEW OF PROJECT
-### Purpose:  The purpose of the current project was to create a neat, organized, aesthetically-pleasing and, perhaps most importantly, useful presentation of the UFO data collected by Dana to be presented in a simple web-page format with the ability to search through reported UFO sightings using any of 5 descriptor fields (Date, City, State, Country, Shape).
+### Purpose:  The purpose of the current project was to create a neat, organized, aesthetically-pleasing and, perhaps most importantly, useful [presentation](https://johnramonetti.github.io/UFOs/) of the UFO data collected by Dana to be presented in a simple web-page format with the ability to search through reported UFO sightings using any of 5 descriptor fields (Date, City, State, Country, Shape).
 
 ## RESOURCES
   - Data Sources: data.js
